@@ -18,8 +18,13 @@
   "bugs": {
     "url": "https://github.com/Whitewolf128/coding_challenge_1/issues"
   },
-    "dependencies": {
+  "dependencies": {
     "express": "^5.2.1"
   },
-  "homepage": "https://github.com/Whitewolf128/coding_challenge_1#readme"
+  "homepage": "https://github.com/Whitewolf128/coding_challenge_1#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
 }
