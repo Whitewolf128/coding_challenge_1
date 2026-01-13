@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Whitewolf128/coding_challenge_1/issues"
   },
+    "dependencies": {
+    "express": "^5.2.1"
+  },
   "homepage": "https://github.com/Whitewolf128/coding_challenge_1#readme"
 }
