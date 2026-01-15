@@ -28,7 +28,7 @@ app.get("/api/v1/players", (req, res) =>{
 
 app.get("/api/v1/players/:id", (req, res) =>{
     res.json({
-        id,
+        id: 1,
         name,
         wins,
         losses,
