@@ -29,10 +29,10 @@ app.get("/api/v1/players", (req, res) =>{
 app.get("/api/v1/players/:id", (req, res) =>{
     res.json({
         id: 1,
-        name,
-        wins,
-        losses,
-        totalScore,
+        name: "ShadowStrike",
+        wins: 15,
+        losses: 5,
+        totalScore: 28500,
     })
 });
     const totalGames1 = wins[0] + losses[0];
